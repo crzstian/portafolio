@@ -1,0 +1,21 @@
+
+
+	.bandera{
+		width:  35%;
+		background-color:  #3498DB;
+		height: 50vh;
+		padding-top: 20px;
+	}
+
+	.bandera2{
+		width:  65%;
+		background-color:  #3498;
+		padding-right: 20px;
+
+	}
+
+	.bandera1{
+		width: 100% ;
+		background-color: #FF3F33;
+		height: 50vh;
+	}
